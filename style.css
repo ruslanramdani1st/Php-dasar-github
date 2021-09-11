@@ -1,0 +1,52 @@
+body {
+    background-color: greenyellow;
+} fieldset {
+    background-color: chocolate;
+    width: auto;
+} #A {
+    border-radius: 80px;
+    background-color: chocolate;
+} #B {
+    border-radius: 80px;
+    background-color: chocolate;
+} #C {
+    border-radius: 80px;
+    background-color: chocolate;
+} #D {
+    border-radius: 80px;
+    background-color: chocolate;
+} #E {
+    border-radius: 80px;
+    background-color: chocolate;
+} #F {
+    border-radius: 80px;
+    background-color: chocolate;
+} #G {
+    border-radius: 80px;
+    background-color: chocolate;
+} #H {
+    border-radius: 80px;
+    background-color: chocolate;
+} #I {
+    border-radius: 80px;
+    background-color: chocolate;
+} #J {
+    border-radius: 80px;
+    background-color: chocolate;
+} #K {
+    border-radius: 80px;
+    background-color: chocolate;
+} #L {
+    border-radius: 80px;
+    background-color: chocolate;
+} #m {
+    border-radius: 80px;
+    background-color: chocolate;
+} .data {
+    padding-top: 20px;
+}
+.info {
+    padding-top: 80px;
+} .nilai {
+    size: 90px;
+}
